@@ -1,0 +1,10 @@
+{
+    "base_url": "https://db-uat.hanamicrofinance.net/index.php?db=uat_dashboard&target=db_structure.php",
+    "credentials": {
+        "username": "phonetn",
+        "password": "APwXE9ifl@"
+    },
+    "interview_id_list": [
+        "0ca5f2c3-11f0-4018-b95c-f0c41a13d26f"
+    ]
+}

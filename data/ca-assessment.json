@@ -1,0 +1,20 @@
+{
+    "ca_credentials": [
+        {
+            "id": 479,
+            "username": "chanmk",
+            "password": "train"
+        }
+    ],
+    "interview_id": [
+        "8092af85-7980-4dfc-ab0e-b85b99058f23"
+    ],
+    "ca_form_answer_list": [
+        {
+            "mcixFamilyMember": "yes",
+            "loan_purpose": "Livestock",
+            "business_photo": "yes",
+            "descriptionOption": "2000 - မွေးမြူရေး အသားတိုးကြက်"
+        }
+    ]
+}

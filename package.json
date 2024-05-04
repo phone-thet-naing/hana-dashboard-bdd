@@ -1,0 +1,16 @@
+{
+  "name": "hana-dashboard-bdd",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/local-runner": "^8.36.1",
+    "@wdio/mocha-framework": "^8.36.1",
+    "@wdio/spec-reporter": "^8.36.1",
+    "wdio-docker-service": "^3.2.1",
+    "wdio-wait-for": "^3.0.11"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js",
+    "make-ca-review": "npm run wdio -- --spec test/specs/make-ca-review.js",
+    "make-call-center": "npm run wdio -- --spec test/specs/make-call-center-verification.js"
+  }
+}
